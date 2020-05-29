@@ -27,7 +27,7 @@
 <body>
 	<h2>jQuery 사용하기</h2>
 	<script>
-		alert("HTML문서의 끝");
+		alert("HTML문서의 끝.");
 	</script>
 	
 </body>
