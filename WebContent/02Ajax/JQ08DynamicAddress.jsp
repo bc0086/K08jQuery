@@ -32,7 +32,6 @@ $(document).ready(function(){
 				sido : $('#sido option:selected').val()
 			},
 			dataType : "json",
-			
 			success:function(d){
 				//consold.log(d);
 				var optionStr = "";
